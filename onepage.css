@@ -1,0 +1,36 @@
+body {
+font-family: Arial, sans-serif;
+background-color: black;
+color: white;
+padding: 20 px;
+}
+h1 {
+color: red;
+}
+p {
+    color: white;
+}
+h3 {
+    color: 20705;
+}
+#name{background-color: white;}
+.greenbtn{color: white;}
+
+table {
+  width: 650px;
+  border-top: 7px solid white;
+  border-collapse: collapse;
+  text-align: center;
+  margin-bottom: 20px;
+  border: 1px solid white;
+}
+
+td {
+  text-align: left;
+	padding: 10px;
+	border: 3px solid white;
+}
+ th {
+  text-align: center;
+  padding: 10px;
+	border: 3px solid white;
